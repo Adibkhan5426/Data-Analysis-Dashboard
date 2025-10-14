@@ -19,3 +19,4 @@ The Vrinda Store Wants to create an Annual Sales report 2022,so that the owner o
 - Amazon, Flipkart, and Myntra channels contribution are max
    # Final Conclusion to improve Store sales:
 *** Target Women customer of age group (30-49 yrs) living in Maharashtra,Karnataka, and UP by showing ads/ offers/coupons available on Amazon,Flipkart, and Myntra.
+# how the  Dashboard  looks like :. - https://github.com/Adibkhan5426/Data-Analysis-Dashboard/blob/main/Dashboard.png
